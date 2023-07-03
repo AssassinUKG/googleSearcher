@@ -28,7 +28,7 @@ Create a new key:
 1. Goto https://programmablesearchengine.google.com/controlpanel/all
 2. Add a new search engine and hit save after (see image for settings) 
 ![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/86a3dda2-b104-4741-bad3-dc6659084e9a)
-3. Get your search engine ID
+3. Get your search engine ID  
 ![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/cb664dc2-eb03-417d-8dd3-d3f721f7d9e0)
 
 ## Install

@@ -14,12 +14,19 @@ cd
 pip install -r requirements.txt
 ```
 
-
 ## Usage
 
 ```bash
 python3 gsearcher.py -s "filetype:pdf site:tesla.com"
 ```
+
+## Screenshots
+
+filetype dork (pdf)
+![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/e9f3bce8-3481-4a6f-82e6-3401ae72b463)
+
+sqli dork (gallery.php?id=)
+
 
 ---
 

@@ -8,8 +8,8 @@ A Limitation imposed by google.
 
 You will need a...
 
-GOOGLE API Key
-GOOGLE CUSTOM SEARCH ENGINE ID
+* GOOGLE API Key
+* GOOGLE CUSTOM SEARCH ENGINE ID
 
 ### Google API Key
 

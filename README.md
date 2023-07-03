@@ -31,6 +31,13 @@ Create a new key:
 3. Get your search engine ID
 ![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/cb664dc2-eb03-417d-8dd3-d3f721f7d9e0)
 
+## Install
+
+```
+git clone
+cd
+pip install -r requirements.txt
+```
 
 
 ## Usage

@@ -23,7 +23,7 @@ python3 gsearcher.py -s "filetype:pdf site:tesla.com"
 
 ---
 
-## Setup
+## Setup (Google stuffs)
 
 You will need a...
 

@@ -8,7 +8,7 @@ Great for OSINT and Google Dorks!
 
 ## Install
 
-```
+```bash
 git clone
 cd
 pip install -r requirements.txt
@@ -50,4 +50,12 @@ Create a new key:
 3. Get your search engine ID  
 ![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/cb664dc2-eb03-417d-8dd3-d3f721f7d9e0)
 
+Now in the gsearcher.py file replace the variables with your key and cse id. 
+
+```python
+my_api_key = "Your GOOGLE API KEY"
+my_cse_id = "YOU Custom Search Engine ID"
+```
+
+Now you're ready to get results! 
 

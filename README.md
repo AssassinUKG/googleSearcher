@@ -54,8 +54,6 @@ options:
 filetype dork (pdf)
 ![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/e9f3bce8-3481-4a6f-82e6-3401ae72b463)
 
-sqli dork (gallery.php?id=)
-
 ** Update: 04/07/2023: Added option for number of results to help free users **
 ![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/76534204-3b00-41f8-8a82-4f864b6d57f8)
 

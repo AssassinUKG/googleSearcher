@@ -1,10 +1,10 @@
 # googleSearcher
-A custom Google search (to bypass some limitations on Google with regards to timouts, vpns etc)
+A custom Google search (to bypass some limitations on Google with regards to timeouts, vpns etc)
 
-The tool has been coded to only return 100 (max) urls from google search. Google only allow 100 results. You can get 100 from page 1-10 or page 11-20 etc, but only ever 100 max results at a time.  
-A Limitation imposed by google. 
+The tool has been coded to only return 100 (max) URLs from google search. Google only allows 100 results. You can get 100 from pages 1-10 or pages 11-20 etc, but only ever 100 max results at a time.  
+A Limitation imposed by Google. 
 
-> WARNING you will qucikly hit the google limit and will need a paid account to get more. 
+> WARNING you will quickly hit the Google limit and will need a paid account to get more. 
 > Script has been edited to allow number choice 1-100 results
 
 Great for OSINT and Google Dorks!
@@ -25,6 +25,15 @@ python3 gsearcher.py
 ```bash
 python3 gsearcher.py -s "filetype:pdf site:tesla.com"
 ```
+
+### Options
+
+```
+-s     = Search Term to enter
+-n     = The number of results to return
+-p     = the page to start on for results.
+```
+
 
 ## Screenshots
 

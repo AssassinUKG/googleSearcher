@@ -4,6 +4,9 @@ A custom Google search (to bypass some limitations on Google with regards to tim
 The tool has been coded to only return 100 (max) urls from google search. Google only allow 100 results. You can get 100 from page 1-10 or page 11-20 etc, but only ever 100 max results at a time.  
 A Limitation imposed by google. 
 
+** WARNING you will qucikly hit the google limit and will need a paid account to get more. ** 
+
+
 Great for OSINT and Google Dorks!
 
 ## Install

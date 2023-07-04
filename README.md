@@ -37,9 +37,15 @@ python3 gsearcher.py -s "dogs" -n 30 -p 3
 ### Options
 
 ```
--s     = Search Term to enter
--n     = The number of results to return
--p     = the page to start on for results.
+usage: gSearch.py [-h] [-s SEARCHTERM] [-n NUMRESULTS] [-p PAGE]
+
+options:
+  -h, --help            show this help message and exit
+  -s SEARCHTERM, --searchTerm SEARCHTERM
+                        Enter a search term!
+  -n NUMRESULTS, --numResults NUMRESULTS
+                        Enter the number of results to fetch (max 100)
+  -p PAGE, --page PAGE  Enter the page number
 ```
 
 

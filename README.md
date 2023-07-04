@@ -26,6 +26,14 @@ python3 gsearcher.py
 python3 gsearcher.py -s "filetype:pdf site:tesla.com"
 ```
 
+```bash
+python3 gsearcher.py -s "cats" -p 4 
+```
+
+```bash
+python3 gsearcher.py -s "dogs" -n 30 -p 3
+```
+
 ### Options
 
 ```

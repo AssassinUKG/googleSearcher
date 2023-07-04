@@ -30,6 +30,9 @@ filetype dork (pdf)
 
 sqli dork (gallery.php?id=)
 
+** Update: 04/07/2023: Added option for number of results to help free users **
+![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/76534204-3b00-41f8-8a82-4f864b6d57f8)
+
 
 ---
 

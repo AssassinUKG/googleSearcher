@@ -53,7 +53,7 @@ Create a new key:
 1. Open the Google API Console.
 2. Create or select a project.
 3. On the Credentials page, get an existing API key or create a new one (Create credentials > API key). You can restrict the key before using it in production by clicking Restrict key.
-> To prevent quota theft, secure your API key following these best practices.
+> Protect your API key by changing the restrictions to only search API or whatever you need.
 
 ### Google CSE (Custom Search Engine)
 

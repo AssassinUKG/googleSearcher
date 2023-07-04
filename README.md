@@ -12,9 +12,12 @@ Great for OSINT and Google Dorks!
 ## Install
 
 ```bash
-git clone
-cd
+git clone https://github.com/AssassinUKG/googleSearcher.git
+cd googleSearcher
 pip install -r requirements.txt
+
+cd gSearcher
+python3 gsearcher.py
 ```
 
 ## Usage

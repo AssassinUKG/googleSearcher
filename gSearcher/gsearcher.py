@@ -43,6 +43,5 @@ results = google_search(
 if len(results) == 0:
     print("No Results found")
 else:
-    print("Results found")
     for result in results:
         print(result['link'])

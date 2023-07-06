@@ -24,7 +24,7 @@ parser.add_argument("-p", "--page", type=int, default=1, help="Enter the page nu
 args = parser.parse_args()
 
 if args.searchTerm is None:
-    print("Enter a search term, exiting")
+    print("Enter a search term:\n ./gsearcher.py -s \"search term\", exiting")
     exit()
 
 searchTerm = args.searchTerm

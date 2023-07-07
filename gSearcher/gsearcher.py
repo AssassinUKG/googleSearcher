@@ -12,7 +12,7 @@ my_cse_id = ["YOUR Custom Search Engine ID"] # you can add multiple engines for 
 def google_search(search_term, api_key, cse_id, num_results, start_page=1, **kwargs):
     service = build("customsearch", "v1", developerKey=api_key)
     res = service.cse().list(q=search_term, cx=cse_id, num=num_results, start=start_page, **kwargs).execute()
-    if res['searchInformation']['totalResults'] > '0':
+    if int(res['searchInformation']['totalResults']) > 0:
         return res['items']
     return []
 

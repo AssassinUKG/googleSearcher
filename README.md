@@ -100,3 +100,11 @@ my_cse_id = "YOU Custom Search Engine ID"
 
 Now you're ready to get results! 
 
+## Changelog
+
+### Update: 04/07/2023: 
+>Added option for number of results to help free users
+
+### Update: 07/07/2023: 
+>Added ability to have multiple cse (custom search engines) in rotation.
+>eg: (line 8) mycse_id = ["8f8a9fak3k1qjfa3", "afalo98a9f8a98fa", "afjaf87ajfia87af"]

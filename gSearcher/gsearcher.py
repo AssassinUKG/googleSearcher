@@ -25,6 +25,7 @@ parser.add_argument("-p", "--page", type=int, default=1, help="Enter the page nu
 args = parser.parse_args()
 
 if args.searchTerm is None:
+    print("Created by Richard Jones")
     parser.print_help()  # Print the help message if no search term is provided
     exit()
 
@@ -42,6 +43,5 @@ results = google_search(
 if len(results) == 0:
     print("No Results found")
 else:
-    print("Results found")
     for result in results:
         print(result['link'])

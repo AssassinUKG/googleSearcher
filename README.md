@@ -51,12 +51,18 @@ options:
 
 ## Screenshots
 
-filetype dork (pdf)
+> filetype dork (pdf)
 ![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/e9f3bce8-3481-4a6f-82e6-3401ae72b463)
+
+![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/6d4a3eec-844c-47d9-bd22-d55ba3e2405c)
+
+![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/9b1dcc76-1bba-4840-85fb-d507950ba3f1)
+
 
 ** Update: 04/07/2023: Added option for number of results to help free users **
 ![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/76534204-3b00-41f8-8a82-4f864b6d57f8)
 
+** Update: 07/07/2023: Added ability to have multiple cse (custom search engines) in rotation.
 
 ---
 

@@ -19,7 +19,7 @@ def google_search(search_term, api_key, cse_id, num_results, start_page=1, **kwa
 parser = argparse.ArgumentParser()
 parser.add_argument("-s", "--searchTerm", help="Enter a search term!")
 parser.add_argument("-n", "--numResults", type=int, default=10, help="Enter the number of results to fetch (max 100)")
-parser.add_argument("-p", "--page", type=int, default=0, help="Enter the page number")
+parser.add_argument("-p", "--page", type=int, default=0, help="Enter the page number (1-10)")
 args = parser.parse_args()
 
 if args.searchTerm is None:
@@ -29,6 +29,11 @@ if args.searchTerm is None:
 
 searchTerm = args.searchTerm
 numResults = min(args.numResults, 100)  # Ensure the number of results is capped at 100
+
+if int(args.page) > 10:
+    print("page needs to be between (1-10)")
+    exit()
+
 
 allResults = []
 if args.page > 0 :

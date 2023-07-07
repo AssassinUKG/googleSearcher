@@ -54,8 +54,6 @@ options:
 > filetype dork (pdf)
 ![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/e9f3bce8-3481-4a6f-82e6-3401ae72b463)
 
-![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/6d4a3eec-844c-47d9-bd22-d55ba3e2405c)
-
 ![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/9b1dcc76-1bba-4840-85fb-d507950ba3f1)
 
 

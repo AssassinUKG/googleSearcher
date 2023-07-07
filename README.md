@@ -59,7 +59,7 @@ options:
 ** Update: 04/07/2023: Added option for number of results to help free users **
 ![image](https://github.com/AssassinUKG/googleSearcher/assets/5285547/76534204-3b00-41f8-8a82-4f864b6d57f8)
 
-** Update: 07/07/2023: Added ability to have multiple cse (custom search engines) in rotation.
+
 ---
 
 ## Setup (Google stuffs)
@@ -103,6 +103,4 @@ Now you're ready to get results!
 ### Update: 04/07/2023: 
 >Added option for number of results to help free users
 
-### Update: 07/07/2023: 
->Added ability to have multiple cse (custom search engines) in rotation.
->eg: (line 8) mycse_id = ["8f8a9fak3k1qjfa3", "afalo98a9f8a98fa", "afjaf87ajfia87af"]
+

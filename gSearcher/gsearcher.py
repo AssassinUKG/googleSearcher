@@ -7,7 +7,7 @@ import argparse
 import itertools
 
 my_api_key = "Your GOOGLE API KEY"
-my_cse_id = ["YOUR Custom Search Engine ID"] # you can add multiple engines for more results, ie: ["cse1", "cse2", cse3"]
+my_cse_id = "YOUR Custom Search Engine ID" # you can add multiple engines for more results, ie: ["cse1", "cse2", cse3"]
 
 def google_search(search_term, api_key, cse_id, num_results, start_page=1, **kwargs):
     service = build("customsearch", "v1", developerKey=api_key)
